@@ -33,5 +33,10 @@ emoji                                   | emoji 代码                   | commi
 :globe_with_meridians: (地球)           | `:globe_with_meridians:`     | 国际化与本地化
 :pencil2: (铅笔)                        | `:pencil2:`                  | 修复 typo
 
+``` shell
+# 使用
+# 比如使用 庆祝
+$ git commit -m ":tada: commit contents"
+```
 
 MIT
