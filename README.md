@@ -36,7 +36,7 @@ emoji                                   | emoji 代码                   | commi
 ``` shell
 # 使用
 # 比如使用 庆祝
-$ git commit -m ":tada: commit contents"
+$ git commit -m ":tada: [commit contents]"
 ```
 
 MIT
